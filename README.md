@@ -1,4 +1,4 @@
-# client-part2
+# grpc-keycloak-frontend
 
 ## Project setup
 ```
